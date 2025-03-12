@@ -1,6 +1,6 @@
 # First-Repository-
 
-Daniel K
-I'm a BRCC CS major. 
-Enjoy any outdoor activies as well as videogames.
+Daniel K <br />
+I'm a BRCC CS major. <br />
+Enjoy any outdoor activies as well as videogames. <br />
 Car guy
